@@ -1,0 +1,61 @@
+.nav-link{
+	color:white;
+	}
+	
+	title{
+	font-weight:bold;
+	}
+#para{
+	color:white;
+	float:left;
+	font-size=18;
+	width:400px;
+	height:300px;
+	
+	margin:50px
+	
+	}
+	
+	video{
+width:500px;
+height:300px;
+
+left:20px;
+border:1px solid yellow;
+float:left;
+}
+
+body{
+background-color:black;
+}
+hr { 
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+} 
+.btn btn-primary{
+background-color:black;
+}
+
+.footer{
+clear: both;
+color:#003b59;
+align:center;
+background-color:#f7d560;
+height:200px;
+width:100%;
+margin-left:20px;
+margin-right:20px;
+margin-top:50px;
+
+
+}
+
+#firstbtn{
+      background:#f2f038;
+	  box-shadow:0 0 10px #f2f038,0 0 40px #f2f038,0 0 10px #f2f038;
+}
